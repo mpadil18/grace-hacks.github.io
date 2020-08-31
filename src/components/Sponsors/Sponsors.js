@@ -17,8 +17,14 @@ function Sponsors() {
         </div>
       </div>
 
-      <div class='box'>We are still looking for sponsors for GraceHacks 2020. 
-      Please reach out to us if you're interested in helping make this hackathon a success.</div>
+      <div class="sponsors-row">
+        <div class='box'>We are still looking for sponsors for GraceHacks 2020. 
+        Please reach out to us if you're interested in helping make this hackathon a success.</div>   
+      </div>
+
+      <div class="sponsors-row">
+        <div class='button'>SPONSOR GRACE HACKS TODAY!</div>   
+      </div>
 
       <div class="sponsors-row">
         <div class="x-large-logo">
@@ -31,7 +37,7 @@ function Sponsors() {
 
       <div class="sponsors-row">
         <div class="large-logo">
-          <img src={require("./RStudiod.svg")} alt="RStudio"/>
+          <img src={require("./RStudio.png")} alt="RStudio"/>
           <img src={require("./balsamiq.png")} alt="Balsamiq"/>
           <img src={require("./Linode.png")} alt="Linode"/>
         </div>
@@ -45,7 +51,7 @@ function Sponsors() {
           <img src={require("./desmos.png")} alt="Desmos"/>
           <img src={require("./GirlsMakeGames.png")} alt="Girls Make Games"/>
           <img src={require("./CloudSploit.png")} alt="CloudSploit"/>
-          <img src={require("./Sentry.svg")} alt="Sentry"/>
+          <img src={require("./Sentry.png")} alt="Sentry"/>
         </div>
       </div>
 

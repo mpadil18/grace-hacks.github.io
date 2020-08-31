@@ -3,8 +3,10 @@
     "",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\Sponsors"
+    "\\src\\components\\FAQ",
+    "\\src\\components\\Sponsors",
+    "\\src\\components\\Team"
   ],
-  "SelectedNode": "\\src\\components\\Sponsors",
+  "SelectedNode": "\\src\\components\\FAQ\\FAQ.css",
   "PreviewInSolutionExplorer": false
 }
